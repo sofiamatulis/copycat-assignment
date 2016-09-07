@@ -94,11 +94,27 @@ li {
 img {
     max-width: 100%;
 }
+.hero {
+  overflow: hidden;
+background-color: #26547C;
+color: white;
+}
+
+.hero-image {
+    float: left;
+    width: 60%;
+}
 
 .hero-content {
+  border: 0;
     text-align: center;
 }
 
+.hero-content {
+    float: left;
+    width: 40%;
+    font-size: 25px;
+}
 
 .hero-content > h2 {
     display: inline-block;
