@@ -133,10 +133,16 @@ color: white;
     font-size: 25px;
 }
 
+.hero {
+    overflow: hidden;
+    background-color: #26547C;
+    color: white;
+}
+
 .hero-content > h2 {
     display: inline-block;
     padding-bottom: 5px;
-    border-bottom: 5px solid #EF476F;
+  
 
   }
 
