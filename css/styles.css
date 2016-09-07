@@ -61,7 +61,12 @@ h1 {
 .navbar {
     float: right;
     padding: 0;
-    min-width: 550px;
+
+}
+.nav-item {
+    margin-bottom: 5px;
+    display: inline-block;
+
 }
 
 nav, section {
@@ -72,7 +77,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    display: block;
+
 }
 
 li {
