@@ -67,3 +67,91 @@ ul {
     padding: 0;
     display: block;
 }
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+
+.hero-content > h2 {
+    display: inline-block;
+    padding-bottom: 5px;
+    border-bottom: 5px solid #EF476F;
+
+  }
+
+  .call-to-action {
+    background-color: #FFD166;
+}
+
+.call-to-action, .products, .about {
+  padding: 30px 20px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+  }
+
+
+  p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.products {
+    background-color: #F2F2F2;
+}
+
+.products, .about {
+    padding: 30px 20px;
+}
+
+
+.about {
+    background-color: #26547C;
+    color: white;
+}
+
+.team {
+    overflow: hidden;
+}
+
+.team-fun, .team-values, .team-meow {
+    float: left;
+    width: 33.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;
+}
+
+footer {
+    background-color: #06D6A0;
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+    padding: 0 20px;
+}
