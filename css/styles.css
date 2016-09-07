@@ -1,5 +1,6 @@
 html {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 1.2em;
 }
 
 
@@ -48,6 +49,8 @@ article, aside, footer, header, hgroup, main, nav, section {
     color: white;
     font-size: 30px;
 }
+
+
 
 h1 {
     display: block;
@@ -142,7 +145,7 @@ color: white;
 .hero-content > h2 {
     display: inline-block;
     padding-bottom: 5px;
-  
+
 
   }
 
