@@ -94,6 +94,12 @@ li {
 img {
     max-width: 100%;
 }
+
+
+
+.product-item > img {
+    border: 3px solid black;
+}
 .hero {
   overflow: hidden;
 background-color: #26547C;
